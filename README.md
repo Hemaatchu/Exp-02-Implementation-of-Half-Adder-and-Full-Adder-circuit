@@ -38,17 +38,35 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+
+Developed by: Hemavathy.S
+RegisterNumber: 23013552 
+
 Logic symbol & Truthtable
 RTL realization
 
+## Code:
+![exp 3  halfadder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/e730bf0a-05d7-41f0-909a-e9fda05c550f)
+
+![exp 3 fulladder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/bf738358-1734-4487-a311-120b8bc20567)
+
+## Truth table:
+
+![exp3 (2)](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/344696db-9c44-41bd-ad11-cd6a46a116bf)33
+
+## Diagram
+
+![HalfAdder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/68cf92d1-7178-4bb0-a39b-ded4564283ad)
+
+![FullAdder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/8859a00d-c9e6-4aa4-9c84-a99c8587e4b1)
+
+
+
 ### Output:
-### RTL
-### TIMING DIAGRAM
+
+![exp3](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/bb755d0c-2965-4f83-a887-86f79b7d06fb)
 
 
-### TRUTH TABLE 
 
 ### Result:
