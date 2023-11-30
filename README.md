@@ -65,8 +65,9 @@ RTL realization
 
 ### Output:
 
-![exp3](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/bb755d0c-2965-4f83-a887-86f79b7d06fb)
+![exp3 halfadder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/e1df388a-80e7-4f49-a966-380b3455190b)
 
+![exp3 fulladder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/e4584069-9c99-4338-a158-9d91ec5ef906)
 
 
 ### Result:
