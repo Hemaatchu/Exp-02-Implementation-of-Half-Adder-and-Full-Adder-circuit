@@ -47,8 +47,9 @@ Logic symbol & Truthtable
 RTL realization
 
 ## Code:
+## Half adder
 ![exp 3  halfadder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/e730bf0a-05d7-41f0-909a-e9fda05c550f)
-
+## Full adder
 ![exp 3 fulladder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/bf738358-1734-4487-a311-120b8bc20567)
 
 ## Truth table:
@@ -57,11 +58,11 @@ RTL realization
 
 ## Diagram
 
-HALF ADDER
+## HALF ADDER
 
 ![HalfAdder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/68cf92d1-7178-4bb0-a39b-ded4564283ad)
 
-FULL ADDER
+## FULL ADDER
 
 ![FullAdder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/8859a00d-c9e6-4aa4-9c84-a99c8587e4b1)
 
@@ -78,6 +79,6 @@ FULL ADDER
 ![exp3 fulladder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/e4584069-9c99-4338-a158-9d91ec5ef906)
 
 
-### Result:
+## Result:
 
 Thus the half adder and full adder circuits are designed and the truth tables is verified using quartus software.
