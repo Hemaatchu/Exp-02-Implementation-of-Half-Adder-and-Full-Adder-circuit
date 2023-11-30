@@ -57,7 +57,11 @@ RTL realization
 
 ## Diagram
 
+HALF ADDER
+
 ![HalfAdder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/68cf92d1-7178-4bb0-a39b-ded4564283ad)
+
+FULL ADDER
 
 ![FullAdder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/8859a00d-c9e6-4aa4-9c84-a99c8587e4b1)
 
@@ -65,7 +69,11 @@ RTL realization
 
 ### Output:
 
+HALF ADDER
+
 ![exp3 halfadder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/e1df388a-80e7-4f49-a966-380b3455190b)
+
+FULL ADDER
 
 ![exp3 fulladder](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/e4584069-9c99-4338-a158-9d91ec5ef906)
 
