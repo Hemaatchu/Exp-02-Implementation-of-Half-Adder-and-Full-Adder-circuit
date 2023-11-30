@@ -54,7 +54,7 @@ RTL realization
 
 ## Truth table:
 
-![exp3 (2)](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/344696db-9c44-41bd-ad11-cd6a46a116bf)33
+![exp3 (2)](https://github.com/Hemaatchu/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147328300/344696db-9c44-41bd-ad11-cd6a46a116bf)
 
 ## Diagram
 
